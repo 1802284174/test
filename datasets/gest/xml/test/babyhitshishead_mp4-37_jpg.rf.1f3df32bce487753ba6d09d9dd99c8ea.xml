@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>babyhitshishead_mp4-37_jpg.rf.1f3df32bce487753ba6d09d9dd99c8ea.jpg</filename>
+	<path>babyhitshishead_mp4-37_jpg.rf.1f3df32bce487753ba6d09d9dd99c8ea.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>492</xmax>
+			<ymin>167</ymin>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

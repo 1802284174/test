@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2_mp4-609_jpg.rf.b3daf1eded229f20e656d74173385ab9.jpg</filename>
+	<path>2_mp4-609_jpg.rf.b3daf1eded229f20e656d74173385ab9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>climbing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>375</xmin>
+			<xmax>538</xmax>
+			<ymin>1</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

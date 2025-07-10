@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2_mp4-55_jpg.rf.24aa43200af463c1486b0707bd3457c2.jpg</filename>
+	<path>2_mp4-55_jpg.rf.24aa43200af463c1486b0707bd3457c2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>322</xmin>
+			<xmax>439</xmax>
+			<ymin>21</ymin>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

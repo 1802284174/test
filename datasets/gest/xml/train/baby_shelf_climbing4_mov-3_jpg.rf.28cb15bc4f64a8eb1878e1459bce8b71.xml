@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baby_shelf_climbing4_mov-3_jpg.rf.28cb15bc4f64a8eb1878e1459bce8b71.jpg</filename>
+	<path>baby_shelf_climbing4_mov-3_jpg.rf.28cb15bc4f64a8eb1878e1459bce8b71.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>409</xmax>
+			<ymin>1</ymin>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

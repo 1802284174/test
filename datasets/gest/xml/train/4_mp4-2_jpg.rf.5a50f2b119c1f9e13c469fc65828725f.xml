@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4_mp4-2_jpg.rf.5a50f2b119c1f9e13c469fc65828725f.jpg</filename>
+	<path>4_mp4-2_jpg.rf.5a50f2b119c1f9e13c469fc65828725f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>263</xmin>
+			<xmax>565</xmax>
+			<ymin>219</ymin>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

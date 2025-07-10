@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baby_toyrefrigerator_climbing_mov-25_jpg.rf.e02b93f9069255907709157ac4bdd378.jpg</filename>
+	<path>baby_toyrefrigerator_climbing_mov-25_jpg.rf.e02b93f9069255907709157ac4bdd378.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>307</xmin>
+			<xmax>468</xmax>
+			<ymin>120</ymin>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

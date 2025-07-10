@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>babyfalling_mp4-75_jpg.rf.0569dabbacd485e1f1b860da2eeb18cf.jpg</filename>
+	<path>babyfalling_mp4-75_jpg.rf.0569dabbacd485e1f1b860da2eeb18cf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>320</xmin>
+			<xmax>434</xmax>
+			<ymin>389</ymin>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>

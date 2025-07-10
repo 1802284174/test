@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baby_faint_video2_mp4-19_jpg.rf.083d1255490f057e765b64178813f163.jpg</filename>
+	<path>baby_faint_video2_mp4-19_jpg.rf.083d1255490f057e765b64178813f163.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>137</xmin>
+			<xmax>381</xmax>
+			<ymin>111</ymin>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

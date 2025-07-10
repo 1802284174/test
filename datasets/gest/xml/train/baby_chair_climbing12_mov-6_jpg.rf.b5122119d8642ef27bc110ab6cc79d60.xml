@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baby_chair_climbing12_mov-6_jpg.rf.b5122119d8642ef27bc110ab6cc79d60.jpg</filename>
+	<path>baby_chair_climbing12_mov-6_jpg.rf.b5122119d8642ef27bc110ab6cc79d60.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>94</xmin>
+			<xmax>451</xmax>
+			<ymin>131</ymin>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Baby_couch_climbing_mp4-11_jpg.rf.032cecc72a284287c24794a99ac30675.jpg</filename>
+	<path>Baby_couch_climbing_mp4-11_jpg.rf.032cecc72a284287c24794a99ac30675.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>211</xmin>
+			<xmax>381</xmax>
+			<ymin>111</ymin>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>lily_faceplant_mp4-33_jpg.rf.2504e260a956d6a0612c2afec646c737.jpg</filename>
+	<path>lily_faceplant_mp4-33_jpg.rf.2504e260a956d6a0612c2afec646c737.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>230</xmin>
+			<xmax>485</xmax>
+			<ymin>52</ymin>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,13 @@
+path: ./datasets/gest
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+# 类别名称,根据自己的数据集情况修改
+names:
+  0: baby
+  1: climbing
+  2: fall
+  3: lay
+  4: faint

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baby_bed_climbing2_mov-10_jpg.rf.493042536f1c1b7989d39606fc5a6f94.jpg</filename>
+	<path>baby_bed_climbing2_mov-10_jpg.rf.493042536f1c1b7989d39606fc5a6f94.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>climbing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>253</xmin>
+			<xmax>495</xmax>
+			<ymin>150</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

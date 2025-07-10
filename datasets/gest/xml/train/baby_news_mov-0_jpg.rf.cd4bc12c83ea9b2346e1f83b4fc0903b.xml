@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>baby_news_mov-0_jpg.rf.cd4bc12c83ea9b2346e1f83b4fc0903b.jpg</filename>
+	<path>baby_news_mov-0_jpg.rf.cd4bc12c83ea9b2346e1f83b4fc0903b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>410</xmax>
+			<ymin>44</ymin>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

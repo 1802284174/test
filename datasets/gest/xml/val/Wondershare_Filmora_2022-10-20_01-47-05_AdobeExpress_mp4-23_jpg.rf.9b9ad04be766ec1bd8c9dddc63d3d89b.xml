@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Wondershare_Filmora_2022-10-20_01-47-05_AdobeExpress_mp4-23_jpg.rf.9b9ad04be766ec1bd8c9dddc63d3d89b.jpg</filename>
+	<path>Wondershare_Filmora_2022-10-20_01-47-05_AdobeExpress_mp4-23_jpg.rf.9b9ad04be766ec1bd8c9dddc63d3d89b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>495</xmax>
+			<ymin>66</ymin>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>
